@@ -59,7 +59,9 @@ Have you ever needed to quickly find location details such as names, ratings, us
    streamlit run app.py
    ```
 
-6. Access the app in your web browser at the provided URL (usually http://localhost:8501).
+6. Access the app in your web browser at the provided URL :   
+
+https://2uhms9mrzqtyealn8m8fpt.streamlit.app/
 
 ## How It Works
 
